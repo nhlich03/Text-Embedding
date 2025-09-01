@@ -11,8 +11,5 @@ A project to train and visualize Word2Vec embeddings on Vietnamese text.
 
 2. Change your data path in config.yaml file.
 
-3. Train and visualize from the CLI:
-   ```bash
-   python -m text_embed.cli --data data.txt --out models/w2v.model --visualize reports/figures/tsne.png
-   ```
+3. Train and visualize 
 
